@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 
 Hi, My name is Alioune Diasse. Currently on the quest to be the best programmer i can be possible be!
     
-    I'm looking to collaborate with like minded individuals who are on the same quest as me or can help me reach my goal.
+    I'm looking to collaborate with like minded individuals who are on the same quest as me.
     
+<<<<<<< HEAD
     Feel free to reach out through github or aliounediasse1996@yahoo.com
+=======
+    Feel free to reach out through github or aliounediasse1996@yahoo.com.
+>>>>>>> 8e32b5fddb69ed59bfe031469af4eb6e19f09d00
 
     Fun Facts:
         - Love anime
         - Love Martials Arts
-        - LOve food 
+        - Love food 
