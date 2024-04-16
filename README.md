@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, My name is Alioune Diasse. Currently on an quest to be the best programmer i can be!
+    
+    I'm looking to collaborate with like minded individuals who are on the same quest as me or can help me reach my goal.
+    
+    Feel free to free out through github or aliounediasse1996@yahoo.com
+
+    Fun Facts:
+        - Love anime
+        - Love Martials Arts
+        - LOve food 
