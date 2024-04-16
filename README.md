@@ -19,13 +19,9 @@ Hi, My name is Alioune Diasse. Currently on the quest to be the best programmer 
     
     I'm looking to collaborate with like minded individuals who are on the same quest as me.
     
-<<<<<<< HEAD
     Feel free to reach out through github or aliounediasse1996@yahoo.com
-=======
-    Feel free to reach out through github or aliounediasse1996@yahoo.com.
->>>>>>> 8e32b5fddb69ed59bfe031469af4eb6e19f09d00
 
     Fun Facts:
-        - Love anime
-        - Love Martials Arts
-        - Love food 
+        - Love Anime!
+        - Love Martials Arts!
+        - Love food! 
